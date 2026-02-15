@@ -4,7 +4,7 @@
 
 # Executables and builds
 piper-os.iso
-isodir/
+isodir/boot/kernel.bin
 *.bin
 
 # Other build artifacts
