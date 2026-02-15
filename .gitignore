@@ -1,0 +1,11 @@
+
+# Object files
+*.o
+
+# Executables and builds
+piper-os.iso
+isodir/
+*.bin
+
+# Other build artifacts
+# Add more if needed
